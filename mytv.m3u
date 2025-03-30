@@ -48,6 +48,8 @@ http://服务器ip:10018/stream/aktv/null-19/AKTV.m3u8
 http://服务器ip:10016/live/mzt/stream.m3u8
 
 #EXTINF:-1 tvg-name="TVBPLUS",TVB Plus
+http://服务器ip:20002/smt3.2.1.php?id=j2_twn
+#EXTINF:-1 tvg-name="TVBPLUS",TVB Plus
 http://服务器ip:10010/live/tvbp/stream.m3u8
 
 #EXTINF:-1 tvg-name="TVBJ1",TVB J1
@@ -55,6 +57,9 @@ http://服务器ip:10011/live/j1/stream.m3u8
 
 #EXTINF:-1 tvg-name="VIUTV",ViuTV
 http://服务器ip:10016/live/viu/stream.m3u8
+
+#EXTINF:-1 tvg-name="ViuTVSix",ViuTVSix
+http://服务器ip:20002/smt3.2.1.php?id=viusix_twn
 
 #EXTINF:-1 tvg-name="HOY77",HOY TV
 http://服务器ip:10010/live/hoy/stream.m3u8
