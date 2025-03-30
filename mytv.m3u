@@ -59,7 +59,7 @@ http://服务器ip:10011/live/j1/stream.m3u8
 http://服务器ip:10016/live/viu/stream.m3u8
 
 #EXTINF:-1 tvg-name="ViuTVSix",ViuTVSix
-http://服务器ip:20002/smt3.2.1.php?id=viusix_twn
+http://服务器ip:10012/smt3.2.1.php?id=viusix_twn
 
 #EXTINF:-1 tvg-name="HOY77",HOY TV
 http://服务器ip:10010/live/hoy/stream.m3u8
@@ -116,6 +116,8 @@ http://服务器ip:10012/smt3.2.1.php?id=Huahee
 #EXTINF:-1 tvg-name="ASTROAECHD",Astro AEC
 http://服务器ip:10012/smt3.2.1.php?id=AEC
 
+#EXTINF:-1 tvg-name="ASTROQUANJIAHD",Astro QJ
+http://服务器ip:10018/stream/tuntun/astroqj/AKTV.m3u8
 #EXTINF:-1 tvg-name="ASTROQUANJIAHD",Astro QJ
 http://服务器ip:10012/smt3.2.1.php?id=Quanjia
 
@@ -184,6 +186,15 @@ http://服务器ip:10019/live/lhrh/stream.m3u8
 
 #EXTINF:-1 tvg-name="龙华洋片HD",龙华洋片
 http://服务器ip:10019/live/lhyp/stream.m3u8
+
+#EXTINF:-1 tvg-name="龙华偶像HD",龙华偶像
+http://服务器ip:10018/stream/taiwan/null-9/AKTV.m3u8
+#EXTINF:-1 tvg-name="龙华日韩HD",龙华日韩
+http://服务器ip:10018/stream/taiwan/null-7/AKTV.m3u8
+#EXTINF:-1 tvg-name="龙华经典HD",龙华经典
+http://服务器ip:10018/stream/taiwan/null/AKTV.m3u8
+#EXTINF:-1 tvg-name="龙华电影HD",龙华电影
+http://服务器ip:10018/stream/taiwan/null-8/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="DAZN1" group-title="其他",DAZN 1
 rtmp://f13h.mine.nu/sat/tv731
