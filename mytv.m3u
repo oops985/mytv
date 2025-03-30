@@ -146,10 +146,10 @@ http://服务器ip:10018/stream/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1 tvg-name="POPC",PopC
 http://服务器ip:10018/stream/aktv/popc/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="美亚电影台",美亚电影（hk）
+#EXTINF:-1 tvg-name="美亚电影台",美亚电影(HK)
 http://服务器ip:10018/stream/aktv/hk-1/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="美亚电影HD",美亚电影（tw）
+#EXTINF:-1 tvg-name="美亚电影HD",美亚电影
 http://服务器ip:10012/smt3.2.1.php?id=meiyamovie_twn
 
 #EXTINF:-1 tvg-name="千禧经典台",千禧经典台(HK)
