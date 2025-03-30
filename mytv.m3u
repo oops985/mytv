@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="http://bvm.thefly.top:5678/t.xml" atchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-name="广东珠江",广东珠江
 http://服务器ip:10017/live/gdzj/stream.m3u8
@@ -58,7 +59,7 @@ http://服务器ip:10011/live/j1/stream.m3u8
 #EXTINF:-1 tvg-name="VIUTV",ViuTV
 http://服务器ip:10016/live/viu/stream.m3u8
 
-#EXTINF:-1 tvg-name="ViuTVSix",ViuTVSix
+#EXTINF:-1 tvg-name="VIUTVSIX",ViuTVSix
 http://服务器ip:10012/smt3.2.1.php?id=viusix_twn
 
 #EXTINF:-1 tvg-name="HOY77",HOY TV
