@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="http://bvm.thefly.top:5678/t.xml" atchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
+#EXTINF:-1 tvg-name="港台电视33",CCTV1港澳版
+http://服务器ip:10016/live/cctv1/stream.m3u8
+
 #EXTINF:-1 tvg-name="广东珠江",广东珠江
 http://服务器ip:10017/live/gdzj/stream.m3u8
 
@@ -8,9 +11,6 @@ http://服务器ip:10017/live/gdty/stream.m3u8
 
 #EXTINF:-1 tvg-name="重温经典",重温经典
 http://服务器ip:10011/live/cwjd/stream.m3u8
-
-#EXTINF:-1 tvg-name="港台电视33",CCTV1港澳版
-http://服务器ip:10016/live/cctv1/stream.m3u8
 
 #EXTINF:-1 tvg-name="澳视澳门",澳视澳门
 http://服务器ip:10010/live/asam/stream.m3u8
@@ -155,6 +155,21 @@ http://服务器ip:10012/smt3.2.1.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="千禧经典台",千禧经典台(HK)
 http://服务器ip:10018/stream/aktv/null-15/AKTV.m3u8
 
+#EXTINF:-1 tvg-name="龙华电影HD",龙华电影
+http://服务器ip:10018/stream/taiwan/null-8/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="龙华偶像HD",龙华偶像
+http://服务器ip:10018/stream/taiwan/null-9/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="龙华日韩HD",龙华日韩
+http://服务器ip:10018/stream/taiwan/null-7/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="龙华经典HD",龙华经典
+http://服务器ip:10018/stream/taiwan/null/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="ELTV生活英语台",ELTV生活英语台
+http://服务器ip:10018/stream/taiwan/eltv/AKTV.m3u8
+
 #EXTINF:-1 tvg-name="NICKJR.",Nick Jr
 http://服务器ip:10018/stream/aktv3/nickjr/AKTV.m3u8
 
@@ -175,21 +190,6 @@ http://服务器ip:10018/stream/aktv/null-7/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="东森新闻台",东森新闻台
 http://服务器ip:10018/stream/aktv2/null/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="龙华偶像HD",龙华偶像
-http://服务器ip:10018/stream/taiwan/null-9/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="龙华日韩HD",龙华日韩
-http://服务器ip:10018/stream/taiwan/null-7/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="龙华经典HD",龙华经典
-http://服务器ip:10018/stream/taiwan/null/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="龙华电影HD",龙华电影
-http://服务器ip:10018/stream/taiwan/null-8/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="ELTV生活英语台",ELTV生活英语台
-http://服务器ip:10018/stream/taiwan/eltv/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="DAZN1" group-title="其他",DAZN 1
 rtmp://f13h.mine.nu/sat/tv731
