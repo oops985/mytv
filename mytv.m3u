@@ -92,9 +92,9 @@ http://服务器ip:10018/stream/astro_a1/tvbjade/AKTV.m3u8
 #EXTINF:-1 tvg-name="Mediacorp Entertainment Chinese",Mediacorp Entertainment Chinese
 http://服务器ip:10018/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="CELESTIALMOVIES(HD)",天映频道
+#EXTINF:-1 tvg-name="天映马来西亚",天映频道
 http://服务器ip:10018/stream/astro_a1/celestialmovies/AKTV.m3u8
-#EXTINF:-1 tvg-name="CELESTIALMOVIES(HD)",天映频道
+#EXTINF:-1 tvg-name="天映马来西亚",天映频道
 http://服务器ip:10012/smt3.2.1.php?id=Celestial
 
 #EXTINF:-1 tvg-name="天映经典频道",天映经典
