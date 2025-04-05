@@ -181,7 +181,7 @@ http://服务器ip:10040/litv-longturn21/index.m3u8
 #EXTINF:-1 tvg-name="龙华经典HD",龙华经典
 http://服务器ip:10018/stream/taiwan/null/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="龙华洋片HD",龙华洋片HD
+#EXTINF:-1 tvg-name="龙华洋片HD",龙华洋片
 http://服务器ip:10040/litv-longturn02/index.m3u8
 
 #EXTINF:-1 tvg-name="龙华戏剧HD",龙华戏剧
