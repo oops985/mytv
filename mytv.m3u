@@ -220,9 +220,6 @@ http://服务器ip:10040/4gtv-live620/index.m3u8
 #EXTINF:-1 tvg-name="MYCINEMAEUROPEHD我的欧洲电影",MYCINEMAEUROPEHD我的欧洲电影
 http://服务器ip:10040/4gtv-live157/index.m3u8
 
-#EXTINF:-1 tvg-name="ELTV生活英语台",ELTV生活英语台
-http://服务器ip:10018/stream/taiwan/eltv/AKTV.m3u8
-
 #EXTINF:-1 tvg-name="爱尔达娱乐台",爱尔达娱乐台
 http://服务器ip:10040/4gtv-4gtv070/index.m3u8
 
@@ -250,9 +247,6 @@ http://服务器ip:10040/4gtv-live105/index.m3u8
 #EXTINF:-1 tvg-name="DREAMWORKS梦工厂动画",DREAMWORKS梦工厂动画
 http://服务器ip:10040/4gtv-live017/index.m3u8
 
-#EXTINF:-1 tvg-name="ZOOMOO",ZooMoo
-http://服务器ip:10018/stream/aktv3/zoomoo/AKTV.m3u8
-
 #EXTINF:-1 tvg-name="TVBS综艺台",TVBS综艺台
 http://bvm.thefly.top:10040/4gtv-live087/index.m3u8
 
@@ -275,7 +269,7 @@ http://服务器ip:10040/litv-longturn14/index.m3u8
 http://服务器ip:10040/4gtv-4gtv152/index.m3u8
 
 #EXTINF:-1 tvg-name="TVBS",TVBS
-http://服务器ip:10040/4gtv-4gtv152/index.m3u8
+http://服务器ip:10040/4gtv-4gtv073/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGELLANTV频道(麦哲伦频道)",MAGELLANTV频道(麦哲伦频道)	
 http://服务器ip:10040/4gtv-live123/index.m3u8
