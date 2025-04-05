@@ -127,7 +127,12 @@ http://服务器ip:10018/stream/tuntun/astroqj/AKTV.m3u8
 http://服务器ip:10012/smt3.2.1.php?id=Quanjia
 
 #EXTINF:-1 tvg-name="ROCKACTION",ROCK Action
+http://服务器ip:10040/4gtv-live138/index.m3u8
+#EXTINF:-1 tvg-name="ROCKACTION",ROCK Action
 http://服务器ip:10018/stream/aktv/rockaction/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="ROCKENTERTAINMENT",ROCKEntertainment
+http://服务器ip:10040/4gtv-live080/index.m3u8
 
 #EXTINF:-1 tvg-name="AXN",AXN
 http://服务器ip:10018/stream/aktv2/axn/AKTV.m3u8
@@ -157,40 +162,117 @@ http://服务器ip:10012/smt3.2.1.php?id=meiyamovie_twn
 http://服务器ip:10018/stream/aktv/null-15/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="龙华电影HD",龙华电影
+http://服务器ip:10040/litv-longturn03/index.m3u8
+#EXTINF:-1 tvg-name="龙华电影HD",龙华电影
 http://服务器ip:10018/stream/taiwan/null-8/AKTV.m3u8
 
+#EXTINF:-1 tvg-name="龙华偶像HD",龙华偶像
+http://服务器ip:10040/litv-longturn12/index.m3u8
 #EXTINF:-1 tvg-name="龙华偶像HD",龙华偶像
 http://服务器ip:10018/stream/taiwan/null-9/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="龙华日韩HD",龙华日韩
+http://服务器ip:10040/litv-longturn11/index.m3u8
+#EXTINF:-1 tvg-name="龙华日韩HD",龙华日韩
 http://服务器ip:10018/stream/taiwan/null-7/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="龙华经典HD",龙华经典
+http://服务器ip:10040/litv-longturn21/index.m3u8
+#EXTINF:-1 tvg-name="龙华经典HD",龙华经典
 http://服务器ip:10018/stream/taiwan/null/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="龙华洋片HD",龙华洋片HD
+http://服务器ip:10040/litv-longturn02/index.m3u8
+
+#EXTINF:-1 tvg-name="龙华戏剧HD",龙华戏剧
+http://服务器ip:10040/litv-longturn18/index.m3u8
+
+#EXTINF:-1 tvg-name="靖天映画",靖天映画
+http://服务器ip:10040/4gtv-4gtv055/index.m3u8
+
+#EXTINF:-1 tvg-name="靖天电影台",靖天电影台
+http://服务器ip:10040/4gtv-4gtv061/index.m3u8
+
+#EXTINF:-1 tvg-name="靖天戏剧台",靖天戏剧台
+http://服务器ip:10040/4gtv-4gtv058/index.m3u8
+
+#EXTINF:-1 tvg-name="靖洋戏剧台",靖洋戏剧台
+http://服务器ip:10040/4gtv-4gtv045/index.m3u8
+
+#EXTINF:-1 tvg-name="采昌影剧台",采昌影剧台
+http://服务器ip:10040/4gtv-4gtv049/index.m3u8
+
+#EXTINF:-1 tvg-name="影迷数位电影台",影迷数位电影台
+http://服务器ip:10040/4gtv-4gtv011/index.m3u8
+
+#EXTINF:-1 tvg-name="霹雳布袋戏",霹雳布袋戏
+http://服务器ip:10040/4gtv-live145/index.m3u8
+
+#EXTINF:-1 tvg-name="金光布袋戏",金光布袋戏
+http://服务器ip:10040/4gtv-live144/index.m3u8
+
+#EXTINF:-1 tvg-name="CINEMAWORLD",CinemaWorld
+http://服务器ip:10040/4gtv-live069/index.m3u8
+
+#EXTINF:-1 tvg-name="HITS频道",HITS频道
+http://服务器ip:10040/4gtv-live620/index.m3u8
+
+#EXTINF:-1 tvg-name="MYCINEMAEUROPEHD我的欧洲电影",MYCINEMAEUROPEHD我的欧洲电影
+http://服务器ip:10040/4gtv-live157/index.m3u8
 
 #EXTINF:-1 tvg-name="ELTV生活英语台",ELTV生活英语台
 http://服务器ip:10018/stream/taiwan/eltv/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="NICKJR.",Nick Jr
-http://服务器ip:10018/stream/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1 tvg-name="爱尔达娱乐台",爱尔达娱乐台
+http://服务器ip:10040/4gtv-4gtv070/index.m3u8
 
-#EXTINF:-1 tvg-name="NICKELODEON",Nickelodeon
-http://服务器ip:10018/stream/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:-1 tvg-name="韩国娱乐台KMTVHD",韩国娱乐台
+http://服务器ip:10040/4gtv-4gtv016/index.m3u8
+
+#EXTINF:-1 tvg-name="LIFETIME娱乐频道",LIFETIME娱乐频道
+http://服务器ip:10040/4gtv-live029/index.m3u8
+
+#EXTINF:-1 tvg-name="LOVENATURE",LOVENATURE
+http://服务器ip:10040/4gtv-live208/index.m3u8
+
+#EXTINF:-1 tvg-name="HISTORY历史频道",HISTORY历史频道
+http://服务器ip:10040/4gtv-live026/index.m3u8
+
+#EXTINF:-1 tvg-name="CI罪案侦查频道",CI罪案侦查频道
+http://服务器ip:10040/4gtv-live027/index.m3u8
+
+#EXTINF:-1 tvg-name="NICKJR.儿童频道",NICKJR.儿童频道
+http://服务器ip:10040/4gtv-live032/index.m3u8
+
+#EXTINF:-1 tvg-name="尼克儿童频道HD",尼克儿童频道
+http://服务器ip:10040/4gtv-live105/index.m3u8
+
+#EXTINF:-1 tvg-name="DREAMWORKS梦工厂动画",DREAMWORKS梦工厂动画
+http://服务器ip:10040/4gtv-live017/index.m3u8
 
 #EXTINF:-1 tvg-name="ZOOMOO",ZooMoo
 http://服务器ip:10018/stream/aktv3/zoomoo/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="无线卫星新闻台",无线卫星新闻台
-http://服务器ip:10018/stream/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVBS新闻",TVBS新闻
+http://服务器ip:10040/4gtv-4gtv072/index.m3u8
 
 #EXTINF:-1 tvg-name="中天新闻台",中天新闻台
-http://服务器ip:10018/stream/aktv/null-6/AKTV.m3u8
+http://服务器ip:10040/4gtv-4gtv009/index.m3u8
+
+#EXTINF:-1 tvg-name="中天亚洲台",中天亚洲台
+http://服务器ip:10040/4gtv-4gtv109/index.m3u8
 
 #EXTINF:-1 tvg-name="寰宇新闻台",寰宇新闻台
-http://服务器ip:10018/stream/aktv/null-7/AKTV.m3u8
+http://服务器ip:10040/litv-longturn14/index.m3u8
 
 #EXTINF:-1 tvg-name="东森新闻台",东森新闻台
-http://服务器ip:10018/stream/aktv2/null/AKTV.m3u8
+http://服务器ip:10040/4gtv-4gtv152/index.m3u8
+
+#EXTINF:-1 tvg-name="TVBS",TVBS
+http://服务器ip:10040/4gtv-4gtv152/index.m3u8
+
+#EXTINF:-1 tvg-name="MAGELLANTV频道(麦哲伦频道)",MAGELLANTV频道(麦哲伦频道)	
+http://服务器ip:10040/4gtv-live123/index.m3u8
 
 #EXTINF:-1 tvg-name="DAZN1" group-title="其他",DAZN 1
 rtmp://f13h.mine.nu/sat/tv731
