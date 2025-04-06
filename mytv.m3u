@@ -140,7 +140,7 @@ http://服务器ip:10018/stream/aktv2/axn/AKTV.m3u8
 #EXTINF:-1 tvg-name="KIX",KIX
 http://服务器ip:10018/stream/aktv3/kix/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="TVNHD(MANDARIN)",tvN
+#EXTINF:-1 tvg-name="TVNHD",tvN
 http://服务器ip:10018/stream/aktv/tvn/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="THRILL",Thrill
