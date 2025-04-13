@@ -74,6 +74,9 @@ http://服务器ip:10016/live/viu/stream.m3u8
 #EXTINF:-1 tvg-name="VIUTVSIX",ViuTVSix
 http://服务器ip:5678/smart.php?id=viusix_twn
 
+#EXTINF:-1 tvg-name="千禧经典台",千禧经典台(HK)
+http://服务器ip:10018/stream/aktv/null-15/AKTV.m3u8
+
 #EXTINF:-1 tvg-name="TVBXINGHE(HD)",TVB星河(国语)
 http://服务器ip:10018/stream/astro_a1/tvbxinghe/AKTV.m3u8
 
@@ -130,6 +133,12 @@ http://服务器ip:10018/stream/aktv3/kix/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVNHD",tvN
 http://服务器ip:10018/stream/aktv/tvn/AKTV.m3u8
 
+#EXTINF:-1 tvg-name="ONEHD(MANDARIN)",ONE
+http://服务器ip:5678/smart.php?id=One
+
+#EXTINF:-1 tvg-name="华艺MBC综合台",华艺MBC综合台
+http://服务器ip:5678/smart.php?id=weishichinese_twn
+
 #EXTINF:-1 tvg-name="THRILL",Thrill
 http://服务器ip:10018/stream/aktv3/thrill/AKTV.m3u8
 
@@ -145,9 +154,6 @@ http://服务器ip:10018/stream/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="美亚电影HD",美亚电影
 http://服务器ip:5678/smart.php?id=meiyamovie_twn
 
-#EXTINF:-1 tvg-name="千禧经典台",千禧经典台(HK)
-http://服务器ip:10018/stream/aktv/null-15/AKTV.m3u8
-
 #EXTINF:-1 tvg-name="龙华电影HD",龙华电影
 http://服务器ip:10018/stream/taiwan/null-8/AKTV.m3u8
 
@@ -157,12 +163,6 @@ http://服务器ip:10018/stream/taiwan/null-9/AKTV.m3u8
 #EXTINF:-1 tvg-name="龙华日韩HD",龙华日韩
 http://服务器ip:10018/stream/taiwan/null-7/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="ONEHD(MANDARIN)",ONE
-http://服务器ip:5678/smart.php?id=One
-
-#EXTINF:-1 tvg-name="华艺MBC综合台",华艺MBC综合台
-http://服务器ip:5678/smart.php?id=weishichinese_twn
-
 #EXTINF:-1 tvg-name="NICKJR.",NICKJR.儿童频道
 http://服务器ip:10018/stream/aktv3/nickjr/AKTV.m3u8
 
@@ -171,6 +171,9 @@ http://服务器ip:10018/stream/aktv3/nickelodeon/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="CN卡通",CN卡通
 http://服务器ip:5678/smart.php?id=momo1_twn
+
+#EXTINF:-1 tvg-name="东森幼幼台",东森幼幼台
+http://服务器ip:5678/smart.php?id=yoyo_twn
 
 #EXTINF:-1 tvg-name="TVBS新闻",TVBS新闻
 http://服务器ip:5678/smart.php?id=tvbs_n
@@ -191,18 +194,14 @@ http://服务器ip:5678/smart.php?id=ettvnews
 #EXTINF:-1 tvg-name="非凡新闻台",非凡新闻台
 http://服务器ip:5678/smart.php?id=feifannews_twn
 
+#EXTINF:-1 tvg-name="年代新闻台",年代新闻台
+http://服务器ip:5678/smart.php?id=niandainews_twn
+
 #EXTINF:-1 tvg-name="TVBS",TVBS
 http://服务器ip:5678/smart.php?id=tvbs
 
-#EXTINF:-1 tvg-name="DAZN1" group-title="其他",DAZN 1
-rtmp://f13h.mine.nu/sat/tv731
-
-#EXTINF:-1 tvg-name="DAZN2" group-title="其他",DAZN 2
-rtmp://f13h.mine.nu/sat/tv741
-
-#EXTINF:-1 tvg-name="MOMO综合台HD" group-title="其他",MOMOTV
-rtmp://f13h.mine.nu/sat/tv761
-
+#EXTINF:-1 tvg-name="纬来育乐台" group-title="其他",纬来育乐台
+http://服务器ip:5678/smart.php?id=videolandmax
 #EXTINF:-1 tvg-name="纬来育乐台" group-title="其他",纬来育乐台
 rtmp://f13h.mine.nu/sat/tv701
 
@@ -273,9 +272,6 @@ http://50.7.234.10:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=178
 #EXTINF:-1 tvg-name="东森戏剧台" group-title="其他",东森戏剧台
 http://50.7.234.10:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
 
-#EXTINF:-1 tvg-name="东森超视" group-title="其他",东森超视
-rtmp://f13h.mine.nu/sat/tv331
-
 #EXTINF:-1 tvg-name="年代MUCHTV" group-title="其他",年代MUCHTV
 http://服务器ip:5678/smart.php?id=niandaitv_twn
 
@@ -308,34 +304,32 @@ http://服务器ip:5678/smart.php?id=hbosignature_twn
 #EXTINF:-1 tvg-name="HBOHITS" group-title="其他",HBOHITS
 http://服务器ip:5678/smart.php?id=hbohits_twn
 
-#EXTINF:-1 tvg-name="龙祥时代" group-title="其他",龙祥时代
+#EXTINF:-1 tvg-name="LSTIME电影台" group-title="其他",龙祥时代
 http://服务器ip:5678/smart.php?id=lungxiangtime_twn
-#EXTINF:-1 tvg-name="龙祥时代" group-title="其他",龙祥时代
+#EXTINF:-1 tvg-name="LSTIME电影台" group-title="其他",龙祥时代
 http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+
+#EXTINF:-1 tvg-name="中天娱乐台" group-title="其他",中天娱乐台
+http://服务器ip:5678/smart.php?id=ctient
+
+#EXTINF:-1 tvg-name="中天综合台" group-title="其他",中天综合台
+http://服务器ip:5678/smart.php?id=ctizhonghe
+
+#EXTINF:-1 tvg-name="华视HD" group-title="其他",华视
+http://服务器ip:5678/smart.php?id=ctshd_twn
+#EXTINF:-1 tvg-name="华视HD" group-title="其他",华视
+rtmp://f13h.mine.nu/sat/tv111
+
+#EXTINF:-1 tvg-name="TVBS欢乐台" group-title="其他",TVBS欢乐台
+http://服务器ip:5678/smart.php?id=tvbshuanle_twn
+#EXTINF:-1 tvg-name="TVBS欢乐台" group-title="其他",TVBS欢乐台
+http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
 
 #EXTINF:-1 tvg-name="三立都会台",三立都会台
 http://服务器ip:5678/smart.php?id=sanlidouhui_twn
 
 #EXTINF:-1 tvg-name="三立戏剧台HD" group-title="其他",三立戏剧
-http://61.221.215.25:8800/hls/41/index.m3u8
-
-#EXTINF:-1 tvg-name="中天娱乐台" group-title="其他",中天娱乐台
-http://服务器ip:5678/smart.php?id=ctient
-#EXTINF:-1 tvg-name="中天娱乐台" group-title="其他",中天娱乐台
-http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
-
-#EXTINF:-1 tvg-name="中天娱乐台" group-title="其他",中天娱乐台
-http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
-
-#EXTINF:-1 tvg-name="中天娱乐台" group-title="其他",中天娱乐台
-http://61.221.215.25:8800/hls/47/index.m3u8
-
-#EXTINF:-1 tvg-name="中天综合台" group-title="其他",中天综合台
-http://服务器ip:5678/smart.php?id=ctizhonghe
-#EXTINF:-1 tvg-name="中天综合台" group-title="其他",中天综合台
-http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
-#EXTINF:-1 tvg-name="中天综合台" group-title="其他",中天综合台
-http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
+http://服务器ip:5678/smart.php?id=sanlixiju_twn
 
 #EXTINF:-1 tvg-name="台视综合" group-title="其他",台视综合
 http://服务器ip:5678/smart.php?id=ttvzhonghe
@@ -349,15 +343,17 @@ rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 tvg-name="中视" group-title="其他",中视
 rtmp://f13h.mine.nu/sat/tv091
 
-#EXTINF:-1 tvg-name="华视HD" group-title="其他",华视
-http://50.7.234.10:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
-#EXTINF:-1 tvg-name="华视HD" group-title="其他",华视
-rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 tvg-name="DAZN1" group-title="其他",DAZN 1
+rtmp://f13h.mine.nu/sat/tv731
 
-#EXTINF:-1 tvg-name="TVBS欢乐台" group-title="其他",TVBS欢乐台
-http://服务器ip:5678/smart.php?id=tvbshuanle_twn
-#EXTINF:-1 tvg-name="TVBS欢乐台" group-title="其他",TVBS欢乐台
-http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
+#EXTINF:-1 tvg-name="DAZN2" group-title="其他",DAZN 2
+rtmp://f13h.mine.nu/sat/tv741
+
+#EXTINF:-1 tvg-name="MOMO综合台HD" group-title="其他",MOMOTV
+rtmp://f13h.mine.nu/sat/tv761
+
+#EXTINF:-1 tvg-name="东森超视" group-title="其他",东森超视
+rtmp://f13h.mine.nu/sat/tv331
 
 #EXTINF:-1 tvg-name="大爱电视" group-title="其他",大爱一台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
