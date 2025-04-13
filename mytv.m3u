@@ -90,7 +90,7 @@ http://服务器ip:10018/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
 http://服务器ip:10018/stream/astro_a1/celestialmovies/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="天映经典频道",天映经典
-http://服务器ip:10012/stream/astro_a1/celestialclassicmovies/AKTV.m3u8
+http://服务器ip:10018/stream/astro_a1/celestialclassicmovies/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="8TV",八度空间
 http://服务器ip:10013/live/8tv/stream.m3u8
