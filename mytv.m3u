@@ -40,16 +40,13 @@ http://服务器ip:10016/live/rthk32/stream.m3u8
 http://服务器ip:10013/live/wxxw/stream.m3u8
 
 #EXTINF:-1 tvg-name="娱乐新闻台",娱乐新闻台
-http://服务器ip:10018/stream/aktv/hk/AKTV.m3u8
+http://服务器ip:5678/smart.php?id=Tvbentertainment
 
 #EXTINF:-1 tvg-name="翡翠台",翡翠台4K
 http://服务器ip:10010/live/fct4k/stream.m3u8
 
 #EXTINF:-1 tvg-name="翡翠台",翡翠台
 http://服务器ip:10011/live/fct/stream.m3u8
-
-#EXTINF:-1 tvg-name="黄金翡翠台",黄金翡翠台
-http://服务器ip:10018/stream/aktv/null-21/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="翡翠剧集台",翡翠剧集台
 http://服务器ip:10018/stream/aktv/null-18/AKTV.m3u8
@@ -75,7 +72,7 @@ http://服务器ip:10016/live/viu/stream.m3u8
 http://服务器ip:5678/smart.php?id=viusix_twn
 
 #EXTINF:-1 tvg-name="千禧经典台",千禧经典台(HK)
-http://服务器ip:10018/stream/aktv/null-15/AKTV.m3u8
+http://服务器ip:5678/smart.php?id=Tvbclassic
 
 #EXTINF:-1 tvg-name="TVBXINGHE(HD)",TVB星河(国语)
 http://服务器ip:10018/stream/astro_a1/tvbxinghe/AKTV.m3u8
@@ -90,10 +87,10 @@ http://服务器ip:10018/stream/astro_a1/tvbjade/AKTV.m3u8
 http://服务器ip:10018/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="CELESTIANLMOVIESHD",天映频道
-http://服务器ip:10018/stream/astro_a1/celestialmovies/AKTV.m3u8
+http://服务器ip:5678/smart.php?id=Celestial
 
 #EXTINF:-1 tvg-name="天映经典频道",天映经典
-http://服务器ip:10018/stream/astro_a1/celestialclassicmovies/AKTV.m3u8
+http://服务器ip:5678/smart.php?id=Celestial2
 
 #EXTINF:-1 tvg-name="8TV",八度空间
 http://服务器ip:10013/live/8tv/stream.m3u8
@@ -108,16 +105,11 @@ http://服务器ip:10013/live/ch8/stream.m3u8
 http://服务器ip:10013/live/chu/stream.m3u8
 
 #EXTINF:-1 tvg-name="ASTROHUAHEEDAIHD",Astro欢喜台
-http://服务器ip:10018/stream/tuntun/astro/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="ASTROHUAHEEDAIHD",Astro欢喜台
-http://服务器ip:10012/smt3.2.1.php?id=Huahee
+http://服务器ip:5678/smart.php?id=Huahee
 
 #EXTINF:-1 tvg-name="ASTROAECHD",Astro AEC
 http://服务器ip:5678/smart.php?id=AEC
 
-#EXTINF:-1 tvg-name="ASTROQUANJIAHD",Astro QJ
-http://服务器ip:10018/stream/tuntun/astroqj/AKTV.m3u8
 #EXTINF:-1 tvg-name="ASTROQUANJIAHD",Astro QJ
 http://服务器ip:5678/smart.php?id=Quanjia
 
@@ -214,9 +206,6 @@ rtmp://f13h.mine.nu/sat/tv721
 http://服务器ip:5678/smart.php?id=videolandjapan
 #EXTINF:-1 tvg-name="纬来日本台" group-title="其他",纬来日本台
 rtmp://f13h.mine.nu/sat/tv771
-
-#EXTINF:-1 tvg-name="纬来精采HD" group-title="其他",纬来精采台
-http://61.221.215.25:8800/hls/48/index.m3u8
 
 #EXTINF:-1 tvg-name="纬来电影台" group-title="其他",纬来电影台
 http://服务器ip:5678/smart.php?id=videolandmovie
