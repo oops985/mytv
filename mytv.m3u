@@ -86,10 +86,10 @@ http://服务器ip:10018/stream/astro_a1/tvbjade/AKTV.m3u8
 #EXTINF:-1 tvg-name="Mediacorp Entertainment Chinese",Mediacorp Entertainment Chinese
 http://服务器ip:10018/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="CELESTIANLMOVIESHD",天映频道
+#EXTINF:-1 tvg-name="CELESTIALMOVIESHD",天映频道
 http://服务器ip:5678/smart.php?id=Celestial
 
-#EXTINF:-1 tvg-name="天映经典频道",天映经典
+#EXTINF:-1 tvg-name="CELESTIALCLASSICMOVIES",天映经典
 http://服务器ip:5678/smart.php?id=Celestial2
 
 #EXTINF:-1 tvg-name="8TV",八度空间
@@ -122,7 +122,7 @@ http://服务器ip:10018/stream/aktv2/axn/AKTV.m3u8
 #EXTINF:-1 tvg-name="KIX",KIX
 http://服务器ip:10018/stream/aktv3/kix/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="TVNHD",tvN
+#EXTINF:-1 tvg-name="TVN",tvN
 http://服务器ip:10018/stream/aktv/tvn/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="ONEHD(MANDARIN)",ONE
@@ -154,12 +154,6 @@ http://服务器ip:10018/stream/taiwan/null-9/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="龙华日韩HD",龙华日韩
 http://服务器ip:10018/stream/taiwan/null-7/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="NICKJR.",NICKJR.儿童频道
-http://服务器ip:10018/stream/aktv3/nickjr/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="nickelodeon",nickelodeon儿童频道
-http://服务器ip:10018/stream/aktv3/nickelodeon/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="CN卡通",CN卡通
 http://服务器ip:5678/smart.php?id=momo1_twn
