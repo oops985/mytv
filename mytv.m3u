@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="http://bvm.thefly.top:5678/t.xml" atchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
 #EXTINF:-1 tvg-name="港台电视33",CCTV1港澳版
 http://服务器ip:10016/live/cctv1/stream.m3u8
+
 #EXTINF:-1 tvg-name="广东珠江",广东珠江
 http://服务器ip:10017/live/gdzj/stream.m3u8
 
@@ -67,16 +69,19 @@ http://服务器ip:5678/smart.php?id=viusix_twn
 
 #EXTINF:-1 tvg-name="龙华电影",龙华电影
 http://服务器ip:10019/live/lhdy/stream.m3u8
+
 #EXTINF:-1 tvg-name="龙华经典",龙华经典
 http://服务器ip:10019/live/lhjd/stream.m3u8
-#EXTINF:-1 tvg-name="龙华卡通",龙华卡通
-http://服务器ip:10019/live/lhkt/stream.m3u8
+
 #EXTINF:-1 tvg-name="龙华偶像",龙华偶像
 http://服务器ip:10019/live/lhox/stream.m3u8
+
 #EXTINF:-1 tvg-name="龙华日韩",龙华日韩
 http://服务器ip:10019/live/lhrh/stream.m3u8
+
 #EXTINF:-1 tvg-name="龙华戏剧",龙华戏剧
 http://服务器ip:10019/live/lhxj/stream.m3u8
+
 #EXTINF:-1 tvg-name="龙华洋片",龙华洋片
 http://服务器ip:10019/live/lhyp/stream.m3u8
 
