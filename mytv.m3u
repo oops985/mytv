@@ -67,22 +67,22 @@ http://服务器ip:10016/live/viu/stream.m3u8
 #EXTINF:-1 tvg-name="VIUTVSIX",ViuTVSix
 http://服务器ip:5678/smart.php?id=viusix_twn
 
-#EXTINF:-1 tvg-name="龙华电影",龙华电影
+#EXTINF:-1 tvg-name="龙华电影HD",龙华电影
 http://服务器ip:10019/live/lhdy/stream.m3u8
 
-#EXTINF:-1 tvg-name="龙华经典",龙华经典
+#EXTINF:-1 tvg-name="龙华经典HD",龙华经典
 http://服务器ip:10019/live/lhjd/stream.m3u8
 
-#EXTINF:-1 tvg-name="龙华偶像",龙华偶像
+#EXTINF:-1 tvg-name="龙华偶像HD",龙华偶像
 http://服务器ip:10019/live/lhox/stream.m3u8
 
-#EXTINF:-1 tvg-name="龙华日韩",龙华日韩
+#EXTINF:-1 tvg-name="龙华日韩HD",龙华日韩
 http://服务器ip:10019/live/lhrh/stream.m3u8
 
-#EXTINF:-1 tvg-name="龙华戏剧",龙华戏剧
+#EXTINF:-1 tvg-name="龙华戏剧HD",龙华戏剧
 http://服务器ip:10019/live/lhxj/stream.m3u8
 
-#EXTINF:-1 tvg-name="龙华洋片",龙华洋片
+#EXTINF:-1 tvg-name="龙华洋片HD",龙华洋片
 http://服务器ip:10019/live/lhyp/stream.m3u8
 
 #EXTINF:-1 tvg-name="CELESTIALMOVIESHD",天映频道
@@ -119,15 +119,12 @@ http://服务器ip:5678/smart.php?id=AEC
 http://服务器ip:5678/smart.php?id=Quanjia
 
 #EXTINF:-1 tvg-name="TVB亚洲武侠",TVB亚洲武侠
-http://服务器ip:10014/asia_action1/1asia_action.stream/chunklist_w6000001.m3u8
+http://服务器ip:10018/stream/tuntun/asianaction/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="TVBJADE(HD)",TVB Jade
-http://服务器ip:10014/jade2/jade.stream/chunklist_w10008.m3u8
+http://服务器ip:10018//stream/astro_a1/tvbjade/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="TVBXINGHE(HD)",TVB星河(粤语)
-http://服务器ip:10014/xinghe_1/xinghe_1.stream/chunklist_w100006.m3u8
-
-#EXTINF:-1 tvg-name="TVBXINGHE(HD)",TVB星河(国语)
+#EXTINF:-1 tvg-name="TVBXINGHE(HD)",TVB星河
 http://服务器ip:10018/stream/astro_a1/tvbxinghe/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="Mediacorp Entertainment Chinese",Mediacorp Entertainment Chinese
