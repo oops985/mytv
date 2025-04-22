@@ -118,47 +118,23 @@ http://服务器ip:5678/smart.php?id=AEC
 #EXTINF:-1 tvg-name="ASTROQUANJIAHD",Astro QJ
 http://服务器ip:5678/smart.php?id=Quanjia
 
-#EXTINF:-1 tvg-name="TVB亚洲武侠",TVB亚洲武侠
-http://服务器ip:10018/stream/tuntun/asianaction/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="TVBJADE(HD)",TVB Jade
-http://服务器ip:10018//stream/astro_a1/tvbjade/AKTV.m3u8
-
 #EXTINF:-1 tvg-name="TVBXINGHE(HD)",TVB星河
-http://服务器ip:10018/stream/astro_a1/tvbxinghe/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="Mediacorp Entertainment Chinese",Mediacorp Entertainment Chinese
-http://服务器ip:10018/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="翡翠剧集台",翡翠剧集台
-http://服务器ip:10018/stream/aktv/null-18/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="明珠剧集台",明珠剧集台
-http://服务器ip:10018/stream/aktv/null-19/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="ROCKACTION",ROCK Action
-http://服务器ip:10018/stream/aktv/rockaction/AKTV.m3u8
+http://服务器ip:5678/smart.php?id=Xinhe
 
 #EXTINF:-1 tvg-name="AXN",AXN
 http://服务器ip:10018/stream/aktv2/axn/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="KIX",KIX
-http://服务器ip:10018/stream/aktv3/kix/AKTV.m3u8
-
 #EXTINF:-1 tvg-name="TVN",tvN
-http://服务器ip:10018/stream/aktv/tvn/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="THRILL",Thrill
-http://服务器ip:10018/stream/aktv3/thrill/AKTV.m3u8
+http://服务器ip:10018/stream/aktv2/tvn/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="ANIMAX",Animax(HK)
-http://服务器ip:10018/stream/aktv3/animaxhk/AKTV.m3u8
+http://服务器ip:10018/stream/aktv2/animaxhk/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="POPC",PopC
-http://服务器ip:10018/stream/aktv/popc/AKTV.m3u8
+http://服务器ip:10018/stream/aktv2/popc/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="美亚电影台",美亚电影(HK)
-http://服务器ip:10018/stream/aktv/hk-1/AKTV.m3u8
+http://服务器ip:10018/stream/aktv2/hk/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="ONEHD(MANDARIN)",ONE
 http://服务器ip:5678/smart.php?id=One
@@ -176,12 +152,12 @@ http://服务器ip:5678/smart.php?id=yoyo_twn
 http://服务器ip:5678/smart.php?id=tvbs_n
 
 #EXTINF:-1 tvg-name="中天新闻台",中天新闻台
-http://服务器ip:10018/stream/aktv/null-6/AKTV.m3u8
+http://服务器ip:10018/stream/yt/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="中天新闻台",中天新闻台
 http://服务器ip:5678/smart.php?id=ctinews
 
 #EXTINF:-1 tvg-name="寰宇新闻台",寰宇新闻台
-http://服务器ip:10018/stream/aktv/null-7/AKTV.m3u8
+http://服务器ip:10018/stream/yt/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻台",寰宇新闻台
 http://服务器ip:5678/smart.php?id=huanyuxinwen_twn
 
