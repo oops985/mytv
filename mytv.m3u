@@ -29,6 +29,8 @@ http://服务器ip:10013/live/fhhk/stream.m3u8
 
 #EXTINF:-1 tvg-name="HOYTV",HOYTV
 http://服务器ip:10010/live/hoy/stream.m3u8
+#EXTINF:-1 tvg-name="HOYTV",HOYTV
+http://服务器ip:10016/live/hoy/stream.m3u8
 
 #EXTINF:-1 tvg-name="港台电视31",RTHK31
 http://服务器ip:10016/live/rthk31/stream.m3u8
@@ -41,6 +43,9 @@ http://服务器ip:10013/live/wxxw/stream.m3u8
 
 #EXTINF:-1 tvg-name="娱乐新闻台",娱乐新闻台
 http://服务器ip:5678/smart.php?id=Tvbentertainment
+
+#EXTINF:-1 tvg-name="NOW新闻台",NOW新闻台
+http://服务器ip:20010/live/now/stream.m3u8
 
 #EXTINF:-1 tvg-name="TVBJ1",翡翠综合台
 http://服务器ip:10011/live/j1/stream.m3u8
@@ -63,6 +68,8 @@ http://服务器ip:10010/live/tvbp/stream.m3u8
 
 #EXTINF:-1 tvg-name="VIUTV",ViuTV
 http://服务器ip:10016/live/viu/stream.m3u8
+#EXTINF:-1 tvg-name="VIUTV",ViuTV
+http://服务器ip:5678/smart.php?id=viu1_twn
 
 #EXTINF:-1 tvg-name="VIUTVSIX",ViuTVSix
 http://服务器ip:5678/smart.php?id=viusix_twn
@@ -97,6 +104,21 @@ http://服务器ip:5678/smart.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="千禧经典台",千禧经典台
 http://服务器ip:5678/smart.php?id=Tvbclassic
 
+#EXTINF:-1 tvg-name="东森电影台",东森电影台
+http://服务器ip:20010/live/dsdy/stream.m3u8
+
+#EXTINF:-1 tvg-name="好莱坞电影台",好莱坞电影台
+http://服务器ip:20010/live/hlwdy/stream.m3u8
+
+#EXTINF:-1 tvg-name="LSTIME电影台",LSTIME电影台
+http://服务器ip:20010/live/lxsd/stream.m3u8
+
+#EXTINF:-1 tvg-name="纬来电影台",纬来电影
+http://服务器ip:20010/live/wldy/stream.m3u8
+
+#EXTINF:-1 tvg-name="DISCOVERY",Discovery
+http://服务器ip:20010/live/d/stream.m3u8
+
 #EXTINF:-1 tvg-name="8TV",八度空间
 http://服务器ip:10013/live/8tv/stream.m3u8
 
@@ -118,8 +140,16 @@ http://服务器ip:5678/smart.php?id=AEC
 #EXTINF:-1 tvg-name="ASTROQUANJIAHD",Astro QJ
 http://服务器ip:5678/smart.php?id=Quanjia
 
+#EXTINF:-1 tvg-name="IQIYIHD",Astro IQIYI
+http://服务器ip:5678/smart.php?id=Qiyi
+
 #EXTINF:-1 tvg-name="TVBXINGHE(HD)",TVB星河
 http://服务器ip:5678/smart.php?id=Xinhe
+#EXTINF:-1 tvg-name="TVBXINGHE(HD)",TVB星河
+http://服务器ip10014/xinghe_1/xinghe_1.stream/chunklist_w100006.m3u8
+
+#EXTINF:-1 tvg-name="TVB亚洲武侠",TVB亚洲武侠
+http://服务器ip10014/asia_action1/1asia_action.stream/chunklist_w6000001.m3u8
 
 #EXTINF:-1 tvg-name="AXN",AXN
 http://服务器ip:10018/stream/aktv2/axn/AKTV.m3u8
