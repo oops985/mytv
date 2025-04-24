@@ -113,7 +113,7 @@ http://服务器ip:20010/live/hlwdy/stream.m3u8
 #EXTINF:-1 tvg-name="LSTIME电影台",LSTIME电影台
 http://服务器ip:20010/live/lxsd/stream.m3u8
 
-#EXTINF:-1 tvg-name="纬来电影台",纬来电影
+#EXTINF:-1 tvg-name="纬来电影台",纬来电影台
 http://服务器ip:20010/live/wldy/stream.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERY",Discovery
