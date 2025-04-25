@@ -44,9 +44,6 @@ http://服务器ip:10013/live/wxxw/stream.m3u8
 #EXTINF:-1 tvg-name="娱乐新闻台",娱乐新闻台
 http://服务器ip:5678/smart.php?id=Tvbentertainment
 
-#EXTINF:-1 tvg-name="NOW新闻台",NOW新闻台
-http://服务器ip:20010/live/now/stream.m3u8
-
 #EXTINF:-1 tvg-name="TVBJ1",翡翠综合台
 http://服务器ip:10011/live/j1/stream.m3u8
 
@@ -119,6 +116,12 @@ http://服务器ip:20010/live/wldy/stream.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY",Discovery
 http://服务器ip:20010/live/d/stream.m3u8
 
+#EXTINF:-1 tvg-name="DISCOVERYASIA",DiscoveryAsia
+http://服务器ip:5678/smart.php?id=discoverytwn_twn
+
+#EXTINF:-1 tvg-name="动物星球",动物星球
+http://服务器ip:5678/smart.php?id=animalplanet_twn
+
 #EXTINF:-1 tvg-name="8TV",八度空间
 http://服务器ip:10013/live/8tv/stream.m3u8
 
@@ -143,14 +146,6 @@ http://服务器ip:5678/smart.php?id=Quanjia
 #EXTINF:-1 tvg-name="IQIYIHD",Astro IQIYI
 http://服务器ip:5678/smart.php?id=Qiyi
 
-#EXTINF:-1 tvg-name="TVBXINGHE(HD)",TVB星河
-http://服务器ip:5678/smart.php?id=Xinhe
-#EXTINF:-1 tvg-name="TVBXINGHE(HD)",TVB星河
-http://服务器ip10014/xinghe_1/xinghe_1.stream/chunklist_w100006.m3u8
-
-#EXTINF:-1 tvg-name="TVB亚洲武侠",TVB亚洲武侠
-http://服务器ip10014/asia_action1/1asia_action.stream/chunklist_w6000001.m3u8
-
 #EXTINF:-1 tvg-name="AXN",AXN
 http://服务器ip:10018/stream/aktv2/axn/AKTV.m3u8
 
@@ -165,6 +160,12 @@ http://服务器ip:10018/stream/aktv2/popc/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="美亚电影台",美亚电影(HK)
 http://服务器ip:10018/stream/aktv2/hk/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="爱尔达影剧台HD",爱尔达影剧台
+http://服务器ip:5678/smart.php?id=eltayingju_twn
+
+#EXTINF:-1 tvg-name="EYETV戏剧台HD",EYETV戏剧台
+http://服务器ip:5678/smart.php?id=eyetvxiju_twn
 
 #EXTINF:-1 tvg-name="ONEHD(MANDARIN)",ONE
 http://服务器ip:5678/smart.php?id=One
@@ -193,6 +194,9 @@ http://服务器ip:5678/smart.php?id=huanyuxinwen_twn
 
 #EXTINF:-1 tvg-name="东森新闻台",东森新闻台
 http://服务器ip:5678/smart.php?id=ettvnews
+
+#EXTINF:-1 tvg-name="东森财经新闻台",东森财经新闻台
+http://服务器ip:5678/smart.php?id=ettvcaijing_twn
 
 #EXTINF:-1 tvg-name="非凡新闻台",非凡新闻台
 http://服务器ip:5678/smart.php?id=feifannews_twn
