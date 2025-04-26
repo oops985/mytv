@@ -12,9 +12,6 @@ http://服务器ip:10017/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-name="重温经典",重温经典
 http://服务器ip:10011/live/cwjd/stream.m3u8
 
-#EXTINF:-1 tvg-name="澳视澳门",澳视澳门
-http://服务器ip:10010/live/asam/stream.m3u8
-
 #EXTINF:-1 tvg-name="澳视卫星",澳视卫星
 http://服务器ip:10010/live/as/stream.m3u8
 
