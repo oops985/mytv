@@ -39,7 +39,7 @@ http://服务器ip:10016/live/rthk32/stream.m3u8
 http://服务器ip:10013/live/wxxw/stream.m3u8
 
 #EXTINF:-1 tvg-name="娱乐新闻台",娱乐新闻台
-http://服务器ip:5678/smart.php?id=Tvbentertainment
+http://服务器ip:5678/smt.php?id=Tvbentertainment
 
 #EXTINF:-1 tvg-name="TVBJ1",翡翠综合台
 http://服务器ip:10011/live/j1/stream.m3u8
@@ -56,17 +56,17 @@ http://服务器ip:10011/live/fct/stream.m3u8
 http://服务器ip:10016/live/mzt/stream.m3u8
 
 #EXTINF:-1 tvg-name="TVBPLUS",TVB Plus
-http://服务器ip:5678/smart.php?id=j2_twn
+http://服务器ip:5678/smt.php?id=j2_twn
 #EXTINF:-1 tvg-name="TVBPLUS",TVB Plus
 http://服务器ip:10010/live/tvbp/stream.m3u8
 
 #EXTINF:-1 tvg-name="VIUTV",ViuTV
 http://服务器ip:10016/live/viu/stream.m3u8
 #EXTINF:-1 tvg-name="VIUTV",ViuTV
-http://服务器ip:5678/smart.php?id=viu1_twn
+http://服务器ip:5678/smt.php?id=viu1_twn
 
 #EXTINF:-1 tvg-name="VIUTVSIX",ViuTVSix
-http://服务器ip:5678/smart.php?id=viusix_twn
+http://服务器ip:5678/smt.php?id=viusix_twn
 
 #EXTINF:-1 tvg-name="龙华电影HD",龙华电影
 http://服务器ip:10019/live/lhdy/stream.m3u8
@@ -87,16 +87,16 @@ http://服务器ip:10019/live/lhxj/stream.m3u8
 http://服务器ip:10019/live/lhyp/stream.m3u8
 
 #EXTINF:-1 tvg-name="CELESTIALMOVIESHD",天映频道
-http://服务器ip:5678/smart.php?id=Celestial
+http://服务器ip:5678/smt.php?id=Celestial
 
 #EXTINF:-1 tvg-name="CELESTIALCLASSICMOVIES",天映经典
-http://服务器ip:5678/smart.php?id=Celestial2
+http://服务器ip:5678/smt.php?id=Celestial2
 
 #EXTINF:-1 tvg-name="美亚电影HD",美亚电影
-http://服务器ip:5678/smart.php?id=meiyamovie_twn
+http://服务器ip:5678/smt.php?id=meiyamovie_twn
 
 #EXTINF:-1 tvg-name="千禧经典台",千禧经典台
-http://服务器ip:5678/smart.php?id=Tvbclassic
+http://服务器ip:5678/smt.php?id=Tvbclassic
 
 #EXTINF:-1 tvg-name="东森电影台",东森电影台
 http://服务器ip:20010/live/dsdy/stream.m3u8
@@ -114,10 +114,10 @@ http://服务器ip:20010/live/wldy/stream.m3u8
 http://服务器ip:20010/live/d/stream.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERYASIA",DiscoveryAsia
-http://服务器ip:5678/smart.php?id=discoverytwn_twn
+http://服务器ip:5678/smt.php?id=discoverytwn_twn
 
 #EXTINF:-1 tvg-name="动物星球",动物星球
-http://服务器ip:5678/smart.php?id=animalplanet_twn
+http://服务器ip:5678/smt.php?id=animalplanet_twn
 
 #EXTINF:-1 tvg-name="8TV",八度空间
 http://服务器ip:10013/live/8tv/stream.m3u8
@@ -132,16 +132,16 @@ http://服务器ip:10013/live/ch8/stream.m3u8
 http://服务器ip:10013/live/chu/stream.m3u8
 
 #EXTINF:-1 tvg-name="ASTROHUAHEEDAIHD",Astro欢喜台
-http://服务器ip:5678/smart.php?id=Huahee
+http://服务器ip:5678/smt.php?id=Huahee
 
 #EXTINF:-1 tvg-name="ASTROAECHD",Astro AEC
-http://服务器ip:5678/smart.php?id=AEC
+http://服务器ip:5678/smt.php?id=AEC
 
 #EXTINF:-1 tvg-name="ASTROQUANJIAHD",Astro QJ
-http://服务器ip:5678/smart.php?id=Quanjia
+http://服务器ip:5678/smt.php?id=Quanjia
 
 #EXTINF:-1 tvg-name="IQIYIHD",Astro IQIYI
-http://服务器ip:5678/smart.php?id=Qiyi
+http://服务器ip:5678/smt.php?id=Qiyi
 
 #EXTINF:-1 tvg-name="AXN",AXN
 http://服务器ip:10018/stream/aktv2/axn/AKTV.m3u8
@@ -159,179 +159,179 @@ http://服务器ip:10018/stream/aktv2/popc/AKTV.m3u8
 http://服务器ip:10018/stream/aktv2/hk/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="爱尔达影剧台HD",爱尔达影剧台
-http://服务器ip:5678/smart.php?id=eltayingju_twn
+http://服务器ip:5678/smt.php?id=eltayingju_twn
 
 #EXTINF:-1 tvg-name="EYETV戏剧台HD",EYETV戏剧台
-http://服务器ip:5678/smart.php?id=eyetvxiju_twn
+http://服务器ip:5678/smt.php?id=eyetvxiju_twn
 
 #EXTINF:-1 tvg-name="ONEHD(MANDARIN)",ONE
-http://服务器ip:5678/smart.php?id=One
+http://服务器ip:5678/smt.php?id=One
 
 #EXTINF:-1 tvg-name="华艺MBC综合台",华艺MBC综合台
-http://服务器ip:5678/smart.php?id=weishichinese_twn
+http://服务器ip:5678/smt.php?id=weishichinese_twn
 
 #EXTINF:-1 tvg-name="CN卡通",CN卡通
-http://服务器ip:5678/smart.php?id=momo1_twn
+http://服务器ip:5678/smt.php?id=momo1_twn
 
 #EXTINF:-1 tvg-name="东森幼幼台",东森幼幼台
-http://服务器ip:5678/smart.php?id=yoyo_twn
+http://服务器ip:5678/smt.php?id=yoyo_twn
 
 #EXTINF:-1 tvg-name="TVBS新闻",TVBS新闻
-http://服务器ip:5678/smart.php?id=tvbs_n
+http://服务器ip:5678/smt.php?id=tvbs_n
 
 #EXTINF:-1 tvg-name="中天新闻台",中天新闻台
 http://服务器ip:10018/stream/yt/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="中天新闻台",中天新闻台
-http://服务器ip:5678/smart.php?id=ctinews
+http://服务器ip:5678/smt.php?id=ctinews
 
 #EXTINF:-1 tvg-name="寰宇新闻台",寰宇新闻台
-http://服务器ip:5678/smart.php?id=huanyuxinwen_twn
+http://服务器ip:5678/smt.php?id=huanyuxinwen_twn
 
 #EXTINF:-1 tvg-name="东森新闻台",东森新闻台
-http://服务器ip:5678/smart.php?id=ettvnews
+http://服务器ip:5678/smt.php?id=ettvnews
 
 #EXTINF:-1 tvg-name="东森财经新闻台",东森财经新闻台
-http://服务器ip:5678/smart.php?id=ettvcaijing_twn
+http://服务器ip:5678/smt.php?id=ettvcaijing_twn
 
 #EXTINF:-1 tvg-name="非凡新闻台",非凡新闻台
-http://服务器ip:5678/smart.php?id=feifannews_twn
+http://服务器ip:5678/smt.php?id=feifannews_twn
 
 #EXTINF:-1 tvg-name="年代新闻台",年代新闻台
-http://服务器ip:5678/smart.php?id=niandainews_twn
+http://服务器ip:5678/smt.php?id=niandainews_twn
 
 #EXTINF:-1 tvg-name="TVBS",TVBS
-http://服务器ip:5678/smart.php?id=tvbs
+http://服务器ip:5678/smt.php?id=tvbs
 
 #EXTINF:-1 tvg-name="纬来育乐台" group-title="其他",纬来育乐台
-http://服务器ip:5678/smart.php?id=videolandmax
+http://服务器ip:5678/smt.php?id=videolandmax
 #EXTINF:-1 tvg-name="纬来育乐台" group-title="其他",纬来育乐台
 rtmp://f13h.mine.nu/sat/tv701
 
 #EXTINF:-1 tvg-name="纬来体育台" group-title="其他",纬来体育台
-http://服务器ip:5678/smart.php?id=videolandsport
+http://服务器ip:5678/smt.php?id=videolandsport
 #EXTINF:-1 tvg-name="纬来体育台" group-title="其他",纬来体育台
 rtmp://f13h.mine.nu/sat/tv721
 
 #EXTINF:-1 tvg-name="纬来日本台" group-title="其他",纬来日本台
-http://服务器ip:5678/smart.php?id=videolandjapan
+http://服务器ip:5678/smt.php?id=videolandjapan
 #EXTINF:-1 tvg-name="纬来日本台" group-title="其他",纬来日本台
 rtmp://f13h.mine.nu/sat/tv771
 
 #EXTINF:-1 tvg-name="纬来电影台" group-title="其他",纬来电影台
-http://服务器ip:5678/smart.php?id=videolandmovie
+http://服务器ip:5678/smt.php?id=videolandmovie
 
 #EXTINF:-1 tvg-name="纬来戏剧台" group-title="其他",纬来戏剧台
-http://服务器ip:5678/smart.php?id=videolandtv
+http://服务器ip:5678/smt.php?id=videolandtv
 
 #EXTINF:-1 tvg-name="纬来综合台" group-title="其他",纬来综合台
-http://服务器ip:5678/smart.php?id=videolandzonghe
+http://服务器ip:5678/smt.php?id=videolandzonghe
 
 #EXTINF:-1 tvg-name="八大第一台" group-title="其他",八大第一台
-http://服务器ip:5678/smart.php?id=badafirst
+http://服务器ip:5678/smt.php?id=badafirst
 #EXTINF:-1 tvg-name="八大第一台" group-title="其他",八大第一台
 http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 
 #EXTINF:-1 tvg-name="八大戏剧台" group-title="其他",八大戏剧台
-http://服务器ip:5678/smart.php?id=badadrama
+http://服务器ip:5678/smt.php?id=badadrama
 #EXTINF:-1 tvg-name="八大戏剧台" group-title="其他",八大戏剧台
 http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
 #EXTINF:-1 tvg-name="八大戏剧台" group-title="其他",八大戏剧台
 http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
 
 #EXTINF:-1 tvg-name="八大综合台" group-title="其他",八大综合台
-http://服务器ip:5678/smart.php?id=badazhonghe
+http://服务器ip:5678/smt.php?id=badazhonghe
 #EXTINF:-1 tvg-name="八大综合台" group-title="其他",八大综合台
 http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
 #EXTINF:-1 tvg-name="八大综合台" group-title="其他",八大综合台
 http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
 
 #EXTINF:-1 tvg-name="东森综合台" group-title="其他",东森综合台
-http://服务器ip:5678/smart.php?id=ettvzhonghe
+http://服务器ip:5678/smt.php?id=ettvzhonghe
 #EXTINF:-1 tvg-name="东森综合台" group-title="其他",东森综合台
 http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8908613c59328719e4b4264d598f7ddd
 
 #EXTINF:-1 tvg-name="东森电影台" group-title="其他",东森电影台
-http://服务器ip:5678/smart.php?id=ettvmovie
+http://服务器ip:5678/smt.php?id=ettvmovie
 #EXTINF:-1 tvg-name="东森电影台" group-title="其他",东森电影台
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 #EXTINF:-1 tvg-name="东森电影台" group-title="其他",东森电影台
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8521db60d49af33060b2d4b3262a1097
 
 #EXTINF:-1 tvg-name="东森洋片台" group-title="其他",东森洋片台
-http://服务器ip:5678/smart.php?id=ettvwestern
+http://服务器ip:5678/smt.php?id=ettvwestern
 #EXTINF:-1 tvg-name="东森洋片台" group-title="其他",东森洋片台
 http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 #EXTINF:-1 tvg-name="东森洋片台" group-title="其他",东森洋片台
 http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
 
 #EXTINF:-1 tvg-name="东森戏剧台" group-title="其他",东森戏剧台
-http://服务器ip:5678/smart.php?id=ettvdrama
+http://服务器ip:5678/smt.php?id=ettvdrama
 #EXTINF:-1 tvg-name="东森戏剧台" group-title="其他",东森戏剧台
 http://50.7.234.10:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
 #EXTINF:-1 tvg-name="东森戏剧台" group-title="其他",东森戏剧台
 http://50.7.234.10:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
 
 #EXTINF:-1 tvg-name="年代MUCHTV" group-title="其他",年代MUCHTV
-http://服务器ip:5678/smart.php?id=niandaitv_twn
+http://服务器ip:5678/smt.php?id=niandaitv_twn
 
 #EXTINF:-1 tvg-name="AXN电影" group-title="其他",AXN电影
-http://服务器ip:5678/smart.php?id=axn_twn
+http://服务器ip:5678/smt.php?id=axn_twn
 
 #EXTINF:-1 tvg-name="好莱坞电影台" group-title="其他",好莱坞电影台
-http://服务器ip:5678/smart.php?id=hollywoodmovies_twn
+http://服务器ip:5678/smt.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-name="好莱坞电影台" group-title="其他",好莱坞电影台
 http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
 
 #EXTINF:-1 tvg-name="CINEMAX" group-title="其他",CINEMAX
-http://服务器ip:5678/smart.php?id=cinemax_twn
+http://服务器ip:5678/smt.php?id=cinemax_twn
 #EXTINF:-1 tvg-name="CINEMAX" group-title="其他",CINEMAX
 http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 #EXTINF:-1 tvg-name="CINEMAX" group-title="其他",CINEMAX
 http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
 
 #EXTINF:-1 tvg-name="HBOHD" group-title="其他",HBOHD
-http://服务器ip:5678/smart.php?id=hbohd_twn
+http://服务器ip:5678/smt.php?id=hbohd_twn
 #EXTINF:-1 tvg-name="HBOHD" group-title="其他",HBOHD
 http://50.7.234.10:8278/Hbo/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d45ccf70554fc40a5e4679209f61fbe9
 
 #EXTINF:-1 tvg-name="HBOFAMILY" group-title="其他",HBOFAMILY
-http://服务器ip:5678/smart.php?id=fyi_twn
+http://服务器ip:5678/smt.php?id=fyi_twn
 
 #EXTINF:-1 tvg-name="HBOSIGNATURE" group-title="其他",HBOSIGNATURE
-http://服务器ip:5678/smart.php?id=hbosignature_twn
+http://服务器ip:5678/smt.php?id=hbosignature_twn
 
 #EXTINF:-1 tvg-name="HBOHITS" group-title="其他",HBOHITS
-http://服务器ip:5678/smart.php?id=hbohits_twn
+http://服务器ip:5678/smt.php?id=hbohits_twn
 
 #EXTINF:-1 tvg-name="LSTIME电影台" group-title="其他",龙祥时代
-http://服务器ip:5678/smart.php?id=lungxiangtime_twn
+http://服务器ip:5678/smt.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-name="LSTIME电影台" group-title="其他",龙祥时代
 http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 
 #EXTINF:-1 tvg-name="中天娱乐台" group-title="其他",中天娱乐台
-http://服务器ip:5678/smart.php?id=ctient
+http://服务器ip:5678/smt.php?id=ctient
 
 #EXTINF:-1 tvg-name="中天综合台" group-title="其他",中天综合台
-http://服务器ip:5678/smart.php?id=ctizhonghe
+http://服务器ip:5678/smt.php?id=ctizhonghe
 
 #EXTINF:-1 tvg-name="华视HD" group-title="其他",华视
-http://服务器ip:5678/smart.php?id=ctshd_twn
+http://服务器ip:5678/smt.php?id=ctshd_twn
 #EXTINF:-1 tvg-name="华视HD" group-title="其他",华视
 rtmp://f13h.mine.nu/sat/tv111
 
 #EXTINF:-1 tvg-name="TVBS欢乐台" group-title="其他",TVBS欢乐台
-http://服务器ip:5678/smart.php?id=tvbshuanle_twn
+http://服务器ip:5678/smt.php?id=tvbshuanle_twn
 #EXTINF:-1 tvg-name="TVBS欢乐台" group-title="其他",TVBS欢乐台
 http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
 
 #EXTINF:-1 tvg-name="三立都会台",三立都会台
-http://服务器ip:5678/smart.php?id=sanlidouhui_twn
+http://服务器ip:5678/smt.php?id=sanlidouhui_twn
 
 #EXTINF:-1 tvg-name="三立戏剧台HD" group-title="其他",三立戏剧
-http://服务器ip:5678/smart.php?id=sanlixiju_twn
+http://服务器ip:5678/smt.php?id=sanlixiju_twn
 
 #EXTINF:-1 tvg-name="台视综合" group-title="其他",台视综合
-http://服务器ip:5678/smart.php?id=ttvzhonghe
+http://服务器ip:5678/smt.php?id=ttvzhonghe
 
 #EXTINF:-1 tvg-name="台视" group-title="其他",台视
 rtmp://f13h.mine.nu/sat/tv071
