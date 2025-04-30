@@ -202,8 +202,47 @@ http://服务器ip:5678/smt.php?id=niandainews_twn
 #EXTINF:-1 tvg-name="TVBS",TVBS
 http://服务器ip:5678/smt.php?id=tvbs
 
+#EXTINF:-1 tvg-name="TVBS台剧台",TVBS台剧台
+http://服务器ip:10040/4gtv-live088/index.m3u8
+
 #EXTINF:-1 tvg-name="爱尔达娱乐台",爱尔达娱乐台
 http://服务器ip:10040/4gtv-4gtv070/index.m3u8
+
+#EXTINF:-1 tvg-name="韩国娱乐台KMTV",韩国娱乐台KMTV
+http://服务器ip:10040/4gtv-4gtv016/index.m3u8
+
+#EXTINF:-1 tvg-name="HITS频道",HITS频道
+http://服务器ip:10040/4gtv-live620/index.m3u8
+
+#EXTINF:-1 tvg-name="靖天戏剧台",靖天戏剧台
+http://服务器ip:10040/4gtv-4gtv058/index.m3u8
+
+#EXTINF:-1 tvg-name="靖洋戏剧台",靖洋戏剧台
+http://服务器ip:10040/4gtv-4gtv045/index.m3u8
+
+#EXTINF:-1 tvg-name="ROCKACTIONHD",ROCK Action
+http://服务器ip:10040/4gtv-live138/index.m3u8
+
+#EXTINF:-1 tvg-name="采昌影剧台",采昌影剧台
+http://服务器ip:10040/4gtv-4gtv049/index.m3u8
+
+#EXTINF:-1 tvg-name="靖天映画HD",靖天映画
+http://服务器ip:10040/4gtv-4gtv055/index.m3u8
+
+#EXTINF:-1 tvg-name="靖天电影台",靖天电影台
+http://服务器ip:10040/4gtv-4gtv061/index.m3u8
+
+#EXTINF:-1 tvg-name="影迷数位电影台",影迷数位电影台
+http://服务器ip:10040/4gtv-4gtv011/index.m3u8
+
+#EXTINF:-1 tvg-name="AMC电影台",AMC电影台
+http://服务器ip:10040/4gtv-4gtv017/index.m3u8
+
+#EXTINF:-1 tvg-name="CINEMAWORLD",Cinema World
+http://服务器ip:10040/4gtv-live069/index.m3u8
+
+#EXTINF:-1 tvg-name="MYCINEMAEUROPEHD我的欧洲电影",歐洲光影
+http://服务器ip:10040/4gtv-live157/index.m3u8
 
 #EXTINF:-1 tvg-name="纬来育乐台" group-title="其他",纬来育乐台
 http://服务器ip:5678/smt.php?id=videolandmax
